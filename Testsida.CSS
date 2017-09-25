@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    color: purple;
+}
+
+h1 {
+    color: purple;
+    text-align: left;
+}
+
+p {
+    font-family: "century gothic";
+    font-size: 20px;
+}
